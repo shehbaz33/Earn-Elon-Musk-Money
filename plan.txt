@@ -1,0 +1,7 @@
+-Get 25 highest paying jobs in USA
+-Average salary - 
+-Elon musk networth/Average Salary
+
+How to proceed
+Make bare shelll ready
+-Button onclick show the days taken to earn how much elon musk is worth
